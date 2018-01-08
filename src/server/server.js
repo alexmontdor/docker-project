@@ -6,9 +6,11 @@ var app = express();
 
 if (process.env.NODE_ENV === 'development') {  
   app.use('/', express.static('/static'));
-} else {
+} 
+
+/* else {
   app.use('/', express.static('node_modules/my-website-module/assets'));
-}
+} */
 // Constants
 const port = 3000;
 //app.use(express.static(path.join(__dirname, '/../public')));
