@@ -4,6 +4,10 @@ A Docker / NodeJS  environment project
 ## Simple Application using this container
 For better example using this technique, checkout [this exercise using a docker container to improve the server installation](https://github.com/alexmontdor/touch-screen)
 
+
+## Structure
+If you want to know more about the structure, the explanation are more detailed on the link in this readme of this [touch-screen repository](https://github.com/alexmontdor/touch-screen)
+
 ## Possible Issues
 
 When setting up the docker container, the system may display an error
